@@ -11,7 +11,6 @@ import org.springframework.stereotype.Service;
 import webant.swaggertogherkin.dto.GitHubRequest;
 import webant.swaggertogherkin.util.GitHubContentFetcher;
 
-import java.util.Map;
 
 @Service
 public class GherkinGeneratorService {
